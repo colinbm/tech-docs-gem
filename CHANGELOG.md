@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- [#236: Fix search 'autocomplete' behaviour](https://github.com/alphagov/tech-docs-gem/pull/236)
 - [Bump redcarpet to 3.5.1 to fix CVE-2020-26298](https://github.com/alphagov/tech-docs-gem/pull/226)
 
 ## 2.3.0
